@@ -1,8 +1,6 @@
 #include <iostream>
 #include <thread>
-#include <chrono>
 #include <mutex>
-#include <math.h>
 
 #include "Timer.cpp"
 
